@@ -30,7 +30,7 @@ wifi:
 captive_portal:
 
 dashboard_import:
-  package_import_url: https://github.com/Dan-Wilder/athom-configs/edit/main/athom-garage-door.yaml
+  package_import_url: https://github.com/Dan-Wilder/athom-configs/athom-garage-door.yaml
 
 sensor:
   - platform: uptime
